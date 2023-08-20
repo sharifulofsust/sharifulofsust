@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharifulofsust
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Science...
 
 <!---
 sharifulofsust/sharifulofsust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
